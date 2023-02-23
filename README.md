@@ -34,7 +34,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitanshu2020&show_icons=true&theme=dark&locale=en" alt="ankitanshu2020" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanshu2020&theme=dark" alt="ankitanshu2020" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanshu2020&theme=dark" alt="ankitanshu2020" /></p>
 <br>
 
 <h1 align="center">Connect With Me</h1>
