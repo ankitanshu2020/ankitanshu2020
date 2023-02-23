@@ -39,16 +39,17 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ankitanshu-kumar-10a4a71a0" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankitanshu-kumar-10a4a71a0/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bxoczw8wytq2w0ky0ioou4a%3d%3d" height="30" width="40" /></a>
-
+&nbsp;
   <a href="https://www.hackerrank.com/ankitanshu9006" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ankitanshu9006" height="30" width="40" /></a>
-
+&nbsp;
   <a href="https://leetcode.com/Ankitanshu/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ankitanshu/" height="30" width="40" /></a>
-
+&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/ankitanshu9006" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ankitanshu9006/" height="30" width="40" /></a>
-  
+  &nbsp;
    <a href="https://www.youtube.com/@itsnewday1923" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@itsnewday1923" height="30" width="40" /></a>
+  &nbsp;
 </p>
