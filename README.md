@@ -28,7 +28,6 @@
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitanshu2020&show_icons=true&theme=dark&locale=en&langs_count=6&layout=compact" alt="ankitanshu2020" /></p>
-<br>
 <h1 align="center">My GitHub Stats</h1>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitanshu2020&show_icons=true&theme=dark&locale=en" alt="ankitanshu2020" /></p>
