@@ -12,9 +12,9 @@
 <p align="left">
 - 🔭 I’m currently working on Web Development and Programming
 
-- 🌱 I’m currently learning **JavaScript, React, Back-end Development**
+- 🌱 I’m currently learning **JavaScript, Angular, Back-end Development**
 
-- 💬 Ask me about **C, C++, Java, Front-end Web Development**
+- 💬 Ask me about **C, C++, Python, Front-end Web Development**
 
 - 📫 How to reach me **ankitanshu9006@gmail.com**
 
