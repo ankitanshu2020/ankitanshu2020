@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/ankitanshu2020)
 <h1 align="center">Hi 👋, I'm Ankitanshu Kumar</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate Java FullStack developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitanshu2020&label=Profile%20views&color=0e75b6&style=flat-square" alt="ankitanshu2020" /> </p>
 
@@ -12,9 +12,9 @@
 <p align="left">
 - 🔭 I’m currently working on Web Development and Programming
 
-- 🌱 I’m currently learning **JavaScript, Angular, Back-end Development**
+- 🌱 I’m currently learning **J2SE, Spring, Spring Boot**
 
-- 💬 Ask me about **C, C++, Python, Front-end Web Development**
+- 💬 Ask me about **Core Java, SQL, JavaScript, React Js, HTML, CSS**
 
 - 📫 How to reach me **ankitanshu9006@gmail.com**
 
