@@ -12,7 +12,7 @@
 <p align="left">
 - 🔭 I’m currently working on Web Development and Programming
 
-- 🌱 I’m currently learning **J2SE, Spring, Spring Boot**
+- 🌱 I’m currently learning **J2EE, Spring, Spring Boot**
 
 - 💬 Ask me about **Core Java, SQL, JavaScript, React Js, HTML, CSS**
 
